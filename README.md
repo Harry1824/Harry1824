@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hariom-kumar-352604291)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harry1824)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Harry1824)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<!-- ADD YOUR EMAIL -->)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](<hariomkumar1824@gmail.com)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ## About Me
 
-I'm a full-stack developer with a strong foundation in Java, JavaScript, and TypeScript. I enjoy building end-to-end web applications — from designing clean UIs to structuring backend logic and working with APIs.
+I'm a full-stack developer with a strong foundation in Java. I enjoy building end-to-end web applications — from designing clean UIs to structuring backend logic and working with APIs.
 
 My core interest is in solving real problems through software: whether that's building AI-assisted tools, e-commerce interfaces, or blockchain-based systems. I actively practice Data Structures & Algorithms to keep my problem-solving sharp and my code efficient.
 
@@ -126,22 +126,7 @@ Demonstrates layout skills including flexbox navigation, hero sections, product 
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Harry1824&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry1824&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Harry1824&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
 
 ## Connect
 
@@ -150,7 +135,7 @@ Demonstrates layout skills including flexbox navigation, hero sections, product 
 | 💼 LinkedIn | [linkedin.com/in/hariom-kumar-352604291](https://linkedin.com/in/hariom-kumar-352604291) |
 | 💻 GitHub | [github.com/Harry1824](https://github.com/Harry1824) |
 | 🧩 LeetCode | [leetcode.com/Harry1824](https://leetcode.com/Harry1824) |
-| 📬 Email | [hariomkumar1824@gmail.com] |
+| 📬 Email | hariomkumar1824@gmail.com |
 
 ---
 
