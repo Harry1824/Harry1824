@@ -34,37 +34,6 @@
 
 Aspiring Software Engineer and Full-Stack Developer, currently pursuing B.Tech in Computer Science. I enjoy building full-stack systems and exploring how AI and blockchain can make them smarter.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🎓 Education**
-B.Tech CSE @ KCC Institute of Technology & Management · 2027
-
-**💼 Role**
-Aspiring Software Engineer · Full-Stack Developer
-
-**🧭 Focus**
-AI · Graph Neural Networks · Blockchain · System Design
-
-</td>
-<td width="50%" valign="top">
-
-**🔨 Building**
-AI-powered full-stack applications
-
-**📚 Learning**
-Advanced TypeScript · Docker · Cloud · System Design
-
-**🎯 Open To**
-SDE Internships · Full-Stack Roles
-
-**🧑‍🏫 Notable**
-Trained 350+ govt. school teachers on AI tools (Govt. of MP initiative)
-
-</td>
-</tr>
-</table>
 
 <br>
 
@@ -104,7 +73,6 @@ Trained 350+ govt. school teachers on AI tools (Govt. of MP initiative)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Concepts I work with:** `Graph Neural Networks` · `LLM Integration` · `System Design` · `REST APIs` · `Distributed Systems`
 
@@ -142,18 +110,6 @@ AI-powered platform generating personalized career paths and placement resources
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 On-Chain Fraud Detection
-**Graph Neural Network Research**
-
-Models blockchain transactions as a graph and applies GCNs to flag anomalous transaction behavior.
-
-`Python` `PyTorch` `GNN` `ML`
-
-<!-- ⚠️ Replace this with your real GNN repo link -->
-[![View Project](https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harry1824/REPLACE-WITH-GNN-REPO)
-
-</td>
-<td width="50%" valign="top">
 
 ### ⚡ Pulse
 **Type-Safe React Application**
@@ -181,27 +137,9 @@ React app built with TypeScript, Vite and Tailwind, focused on type safety and c
 
 <br>
 
-## 📜 Certifications & Achievements
 
-**AI Trainer — Seaborn Technologies Pvt. Ltd.** *(Govt. of Madhya Pradesh initiative)*
-Trained 350+ government school teachers on practical AI tools — ChatGPT, Claude, Gemini, NotebookLM, Canva AI — under the "Empowering Teachers with AI Tools for Smart Learning" statewide program.
 
-| Certification | Issuer |
-|---|---|
-| Backend Web Development | AWS |
-| Bug Trooper — Bug Bounty & Cybersecurity | iHUB DivyaSampark, IIT Roorkee |
-| System Design Masterclass — Ticket Booking App | WsCube Tech |
-| Foundations of Cloud Computing | Kaizen Community |
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/350%2B-Teachers%20Trained-58A6FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AIR%206676-Internship%20Aptitude%20Test-8B949E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HackIndia-Spark--4-3FB950?style=for-the-badge"/>
-
-</div>
-
-<br>
 
 ## 📊 GitHub Stats
 
