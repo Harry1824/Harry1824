@@ -12,7 +12,8 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+intelligent+full-stack+systems;MERN+Stack+%7C+Java+%7C+TypeScript;Graph+Neural+Networks+%26+Blockchain;Trained+350%2B+educators+on+AI+tools;Solving+DSA+daily+%7C+System+Design)](https://git.io/typing-svg)
+[<img width="1024" height="716" alt="WhatsApp Image 2026-08-13 at 01 48 23" src="https://github.com/user-attachments/assets/9a1739c0-6cc0-46be-b6e4-5bca5180b508" />
+](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+intelligent+full-stack+systems;MERN+Stack+%7C+Java+%7C+TypeScript;Graph+Neural+Networks+%26+Blockchain;Trained+350%2B+educators+on+AI+tools;Solving+DSA+daily+%7C+System+Design)](https://git.io/typing-svg)
 
 </div>
 
