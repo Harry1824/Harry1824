@@ -7,20 +7,13 @@
 <!-- Decorative animated gradient banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:161B22,100:21262D&animation=fadeIn" width="100%"/>
 
-</div>
+<!-- Animated name -->
+<a href="https://github.com/Harry1824">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&height=60&lines=Hariom+Kumar" alt="Hariom Kumar"/>
+</a>
 
-<table>
-<tr>
-<td width="30%" align="center">
-
-<img src="assets/profile-circle.png" width="190" alt="Hariom Kumar"/>
-
-</td>
-<td width="70%" align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=55&lines=Hariom+Kumar" alt="Hariom Kumar"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=8B949E&center=true&vCenter=true&width=750&height=40&lines=Software+Engineer+%7C+Full-Stack+Developer;Building+with+MERN+%2B+AI+%2B+Blockchain;Turning+ideas+into+production-ready+software" alt="Tagline"/>
+<!-- Animated tagline -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=8B949E&center=true&vCenter=true&width=750&height=40&lines=Aspiring+Software+Engineer;Full-Stack+Developer+%7C+MERN+%2B+AI+%2B+Blockchain;Turning+ideas+into+production-ready+software" alt="Tagline"/>
 
 <br>
 
@@ -29,11 +22,7 @@
 <a href="https://leetcode.com/Harry1824"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="mailto:hariomkumar1824@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-</td>
-</tr>
-</table>
-
-<div align="center">
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Harry1824&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge"/>
 
@@ -43,7 +32,7 @@
 
 ## 👋 About Me
 
-I'm a final-year CSE student who builds full-stack systems and likes making them smarter — modeling blockchain transactions as graphs to catch fraud, or shipping AI-driven career guidance tools students actually use. I've also trained 350+ government school teachers on AI tools statewide, which forces you to explain complex systems simply — a habit that carries straight into how I write code.
+Aspiring Software Engineer and Full-Stack Developer, currently pursuing B.Tech in Computer Science. I enjoy building full-stack systems and exploring how AI and blockchain can make them smarter.
 
 <table>
 <tr>
@@ -53,7 +42,7 @@ I'm a final-year CSE student who builds full-stack systems and likes making them
 B.Tech CSE @ KCC Institute of Technology & Management · 2027
 
 **💼 Role**
-Software Engineer · Full-Stack Developer
+Aspiring Software Engineer · Full-Stack Developer
 
 **🧭 Focus**
 AI · Graph Neural Networks · Blockchain · System Design
