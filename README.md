@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hariom%20Kumar&fontSize=58&fontColor=FFFFFF&fontAlignY=40&desc=Software%20Engineer%20%7C%20MERN%20Stack%20%7C%20AI%20%26%20Blockchain&descAlignY=62&descColor=58a6ff&descSize=20&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:0d1117,100:161b22&height=200&section=header&text=Hariom%20Kumar&fontSize=52&fontColor=58A6FF&fontAlignY=38&desc=Software%20Engineer%20%7C%20MERN%20Stack%20%7C%20AI%20%26%20Blockchain&descAlignY=58&descColor=8B949E&descSize=17&animation=fadeIn" />
 
 </div>
 
@@ -12,8 +12,7 @@
 
 <div align="center">
 
-[<img width="1024" height="716" alt="WhatsApp Image 2026-08-13 at 01 48 23" src="https://github.com/user-attachments/assets/9a1739c0-6cc0-46be-b6e4-5bca5180b508" />
-](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+intelligent+full-stack+systems;MERN+Stack+%7C+Java+%7C+TypeScript;Graph+Neural+Networks+%26+Blockchain;Trained+350%2B+educators+on+AI+tools;Solving+DSA+daily+%7C+System+Design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+intelligent+full-stack+systems;MERN+Stack+%7C+Java+%7C+TypeScript;Graph+Neural+Networks+%26+Blockchain;Trained+350%2B+educators+on+AI+tools;Solving+DSA+daily+%7C+System+Design)](https://git.io/typing-svg)
 
 </div>
 
