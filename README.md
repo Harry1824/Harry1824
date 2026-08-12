@@ -7,12 +7,19 @@
 <!-- Decorative animated gradient banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:161B22,100:21262D&animation=fadeIn" width="100%"/>
 
-<!-- Animated name -->
-<a href="https://github.com/Harry1824">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=55&lines=Hariom+Kumar" alt="Hariom Kumar"/>
-</a>
+</div>
 
-<!-- Animated tagline -->
+<table>
+<tr>
+<td width="30%" align="center">
+
+<img src="assets/profile-circle.png" width="190" alt="Hariom Kumar"/>
+
+</td>
+<td width="70%" align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=55&lines=Hariom+Kumar" alt="Hariom Kumar"/>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=8B949E&center=true&vCenter=true&width=750&height=40&lines=Software+Engineer+%7C+Full-Stack+Developer;Building+with+MERN+%2B+AI+%2B+Blockchain;Turning+ideas+into+production-ready+software" alt="Tagline"/>
 
 <br>
@@ -22,7 +29,11 @@
 <a href="https://leetcode.com/Harry1824"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="mailto:hariomkumar1824@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<br><br>
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Harry1824&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge"/>
 
@@ -58,6 +69,9 @@ Advanced TypeScript · Docker · Cloud · System Design
 
 **🎯 Open To**
 SDE Internships · Full-Stack Roles
+
+**🧑‍🏫 Notable**
+Trained 350+ govt. school teachers on AI tools (Govt. of MP initiative)
 
 </td>
 </tr>
@@ -162,16 +176,10 @@ React app built with TypeScript, Vite and Tailwind, focused on type safety and c
 
 <br>
 
-## 🏆 Experience
+## 📜 Certifications & Achievements
 
-**AI Trainer — Seaborn Technologies Pvt. Ltd.**
-*Government of Madhya Pradesh initiative*
-
-Trained 350+ government school teachers on practical AI tools — ChatGPT, Claude, Gemini, NotebookLM, Canva AI — as part of the "Empowering Teachers with AI Tools for Smart Learning" statewide program.
-
-<br>
-
-## 📜 Certifications
+**AI Trainer — Seaborn Technologies Pvt. Ltd.** *(Govt. of Madhya Pradesh initiative)*
+Trained 350+ government school teachers on practical AI tools — ChatGPT, Claude, Gemini, NotebookLM, Canva AI — under the "Empowering Teachers with AI Tools for Smart Learning" statewide program.
 
 | Certification | Issuer |
 |---|---|
@@ -180,7 +188,13 @@ Trained 350+ government school teachers on practical AI tools — ChatGPT, Claud
 | System Design Masterclass — Ticket Booking App | WsCube Tech |
 | Foundations of Cloud Computing | Kaizen Community |
 
-**Achievements:** Internship Common Aptitude Test — AIR 6676 · HackIndia Hackathon Spark-4
+<div align="center">
+
+<img src="https://img.shields.io/badge/350%2B-Teachers%20Trained-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AIR%206676-Internship%20Aptitude%20Test-8B949E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HackIndia-Spark--4-3FB950?style=for-the-badge"/>
+
+</div>
 
 <br>
 
