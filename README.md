@@ -47,27 +47,42 @@
 
 ### `Software Engineer in the making • Builder • Problem Solver`
 
+<br>
+
+I build where software engineering meets intelligence — AI-powered career platforms, graph-based fraud detection, decentralized reputation systems. Good engineering isn't just writing code; it's understanding the problem, designing the system, measuring the result, and making the solution useful.
+
+<br>
+
 </div>
 
-```typescript
-const hariom = {
-    name: "Hariom Kumar",
-    role: "Software Engineer | Full-Stack Developer",
-    education: "B.Tech CSE @ KCC Institute of Technology & Management",
-    graduation: "2027",
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-    stack: ["Java", "JavaScript", "TypeScript", "Python", "React", "Node.js", "MongoDB"],
-    interests: ["Artificial Intelligence", "Graph Neural Networks", "Blockchain", "System Design"],
+**🎓 Education**
+B.Tech CSE @ KCC Institute of Technology & Management · Class of 2027
 
-    currentlyBuilding: "AI-powered full-stack applications",
-    currentlyLearning: ["Advanced TypeScript", "Docker", "Cloud Architecture", "System Design"],
+**💼 Role**
+Software Engineer · Full-Stack Developer
 
-    goal: "Build scalable software that solves real problems",
-    openTo: ["Software Engineering Internships", "SDE Opportunities", "Collaborative Projects"]
-};
-```
+**🧭 Focus Areas**
+Artificial Intelligence · Graph Neural Networks · Blockchain · System Design
 
-> I build where software engineering meets intelligence — AI-powered career platforms, graph-based fraud detection, decentralized reputation systems. Good engineering isn't just writing code; it's understanding the problem, designing the system, measuring the result, and making the solution useful.
+</td>
+<td width="50%" valign="top">
+
+**🔨 Currently Building**
+AI-powered full-stack applications
+
+**📚 Currently Learning**
+Advanced TypeScript · Docker · Cloud Architecture · System Design
+
+**🎯 Open To**
+Software Engineering Internships · SDE Opportunities · Collaborative Projects
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -104,12 +119,13 @@ const hariom = {
 **AI / Machine Learning**
 <img src="https://skillicons.dev/icons?i=pytorch&theme=dark"/>
 
-<img src="https://img.shields.io/badge/Graph%20Neural%20Networks-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLM%20Integration-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20APIs-4285F4?style=for-the-badge"/>
-
 **Tools & DevOps**
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux&theme=dark"/>
+
+<br>
+
+**Concepts I Work With**
+`Graph Neural Networks` · `LLM Integration` · `System Design` · `Distributed Systems` · `REST APIs`
 
 </div>
 
