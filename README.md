@@ -32,7 +32,6 @@
 
 Aspiring Software Engineer and Full-Stack Developer, currently pursuing B.Tech in Computer Science. I enjoy building full-stack systems and exploring how AI and blockchain can make them smarter.
 
-
 <br>
 
 ## 🛠️ Tech Stack
@@ -108,7 +107,6 @@ AI-powered platform generating personalized career paths and placement resources
 <tr>
 <td width="50%" valign="top">
 
-
 ### ⚡ Pulse
 **Type-Safe React Application**
 
@@ -117,6 +115,9 @@ React app built with TypeScript, Vite and Tailwind, focused on type safety and c
 `TypeScript` `React` `Vite` `Tailwind`
 
 [![View Project](https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harry1824/Pulse-project)
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -135,17 +136,14 @@ React app built with TypeScript, Vite and Tailwind, focused on type safety and c
 
 <br>
 
-
-
-
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Harry1824&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Harry1824&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry1824&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 
+<br>
 
 <img src="https://streak-stats.demolab.com?user=Harry1824&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF"/>
 
