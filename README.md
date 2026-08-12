@@ -4,7 +4,13 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:0d1117,100:161b22&height=200&section=header&text=Hariom%20Kumar&fontSize=52&fontColor=58A6FF&fontAlignY=38&desc=Software%20Engineer%20%7C%20MERN%20Stack%20%7C%20AI%20%26%20Blockchain&descAlignY=58&descColor=8B949E&descSize=17&animation=fadeIn" />
+<!-- Decorative gradient banner — no text baked in, so it can never "lose" the name if the service lags -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&color=0:0d1117,100:161b22&height=150&section=header" />
+
+<!-- Name rendered separately via readme-typing-svg — more reliable uptime, and doubles as an animation -->
+[![Hariom Kumar](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Hariom+Kumar)](https://github.com/Harry1824)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=8B949E&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+MERN+Stack+%7C+AI+%26+Blockchain)](https://github.com/Harry1824)
 
 </div>
 
