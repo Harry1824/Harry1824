@@ -17,9 +17,7 @@
 
 <br>
 
-<a href="https://github.com/Harry1824"><img src="https://img.shields.io/badge/GitHub-Harry1824-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/hariom-kumar-352604291"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/Harry1824"><img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="mailto:hariomkumar1824@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br><br>
@@ -173,8 +171,6 @@ React app built with TypeScript, Vite and Tailwind, focused on type safety and c
 <div align="center">
 
 <a href="https://www.linkedin.com/in/hariom-kumar-352604291"><img src="https://img.shields.io/badge/LinkedIn-Hariom%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Harry1824"><img src="https://img.shields.io/badge/GitHub-Harry1824-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://leetcode.com/Harry1824"><img src="https://img.shields.io/badge/LeetCode-Harry1824-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="mailto:hariomkumar1824@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br><br>
