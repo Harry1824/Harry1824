@@ -136,21 +136,6 @@ React app built with TypeScript, Vite and Tailwind, focused on type safety and c
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Harry1824&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry1824&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Harry1824&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF"/>
-
-</div>
-
-<br>
-
 ## 💡 Philosophy
 
 <div align="center">
